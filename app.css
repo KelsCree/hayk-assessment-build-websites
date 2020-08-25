@@ -1,0 +1,19 @@
+nav {
+    float: right;
+    padding: 12px;
+    display: inline;
+}
+
+header {
+    display: inline;
+    float: left;
+}
+
+h1 {
+    display: inline;
+}
+
+h4 {
+    margin: 5px;
+    
+}
